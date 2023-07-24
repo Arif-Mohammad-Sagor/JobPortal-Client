@@ -1,0 +1,38 @@
+/* src/App.css */
+/* .app {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+} */
+
+.job-section {
+  margin-top: 30px;
+}
+
+.job-cards-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+.job-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  text-align: center;
+}
+
+.show-all-button {
+  display: block;
+  margin: 20px auto;
+  padding: 10px 20px;
+  border: none;
+  background-color: #007bff;
+  color: #fff;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.show-all-button:hover {
+  background-color: #0056b3;
+}

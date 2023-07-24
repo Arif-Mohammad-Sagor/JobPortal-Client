@@ -1,0 +1,123 @@
+/* Styles for both desktop and mobile */
+.button-box {
+  width: 370px;
+  margin: 35px auto;
+  position: relative;
+  border-radius: 30px;
+  background: blue;
+  color: white;
+}
+
+.toggle-btn {
+  padding: 10px 40px;
+  cursor: pointer;
+  background: transparent;
+  border: 0;
+  outline: none;
+  position: relative;
+  text-align: center;
+}
+
+.Btn{
+  left: 0;
+  top: 0;
+  position: absolute;
+  width: 180px;
+  height: 100%;
+  background: #f87272;
+  border-radius: 30px;
+  transition: .5s;
+}
+
+.left-slide {
+  left: 0;
+  width: 150px;
+}
+
+.right-slide {
+  left: 220px;
+  width: 150px;
+}
+
+/* Media query for mobile devices */
+@media (max-width: 425px) {
+  .button-box {
+    width: 47%;
+    margin: 20px auto;
+    padding: 5px;
+  }
+  .toggle-btn{
+    font-size: 16px;
+     padding: 5px 10px;
+  }
+.Btn{
+
+  width: 50px;
+
+}
+
+ .left-slide {
+  left: 0;
+  width: 100px;
+}
+
+.right-slide {
+  left: 90px;
+  width: 110px;
+}
+}
+
+/* Media query for mobile devices */
+@media (max-width: 375px) {
+  .button-box {
+    width: 57%;
+    margin: 20px auto;
+    padding: 5px;
+  }
+  .toggle-btn{
+    font-size: 16px;
+     padding: 5px 10px;
+  }
+.Btn{
+
+  width: 50px;
+
+}
+
+ .left-slide {
+  left: 0;
+  width: 100px;
+}
+
+.right-slide {
+  left: 105px;
+  width: 110px;
+}
+}
+
+@media (max-width: 320px) {
+  .button-box {
+    width: 67%;
+    margin: 20px auto;
+    padding: 5px;
+  }
+  .toggle-btn{
+    font-size: 16px;
+     padding: 5px 10px;
+  }
+.Btn{
+
+  width: 50px;
+
+}
+
+ .left-slide {
+  left: 0;
+  width: 100px;
+}
+
+.right-slide {
+  left: 105px;
+  width: 110px;
+}
+}

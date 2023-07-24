@@ -1,0 +1,42 @@
+[
+  {
+    "ques": "What is React?",
+    "ans": "React is a popular JavaScript library used for building components and web user interfaces. It helps to build the frontend part of a website, which includes pages, their layout, and content. React is especially popular for building single-page applications and is known for its performance, component reusability, and ease of learning."
+  },
+  {
+    "ques": "What are the major features of React?",
+    "ans": "React has several major features, including support for JSX, which allows writing HTML inside JS functions, component-based architecture, one-way data binding, excellent performance through the use of a virtual DOM, a large and active community for support and learning, and ease of learning compared to other libraries and frameworks."
+  },
+  {
+    "ques": "What is JSX?",
+    "ans": "JSX stands for JavaScript XML, which is an extension of JavaScript. It allows developers to write HTML-like syntax inside JS files, making it easier to create complex designs and maintain readability in the code."
+  },
+  {
+    "ques": "What is State in React?",
+    "ans": "In React, state is a JavaScript object used for storing data or information about a component. It represents the current state of a component and can change over time. When the state changes, React automatically re-renders the component to reflect the updated state."
+  },
+  {
+    "ques": "What is Props in React?",
+    "ans": "Props stands for properties in React. It is used to pass data or information from a parent component to a child component. Props are immutable, meaning their value cannot be changed by the child component. It allows parent components to communicate with their children and helps in creating dynamic and reusable components."
+  },
+  {
+    "ques": "What are React Components?",
+    "ans": "React Components are the building blocks of React applications. They are small, self-contained, and reusable pieces of code that represent a part of the user interface. Components can be composed together to create complex user interfaces. There are two types of components in React: functional components (created as functions) and class components (created as ES6 classes)."
+  },
+  {
+    "ques": "What is the difference between props and state?",
+    "ans": "The main difference between props and state in React is that props are immutable and passed from parent to child components, while state is mutable and specific to a component. Props are used to pass data from parent to child components, while state is used to store and manage component-specific data that can change over time."
+  },
+  {
+    "ques": "What are the lifecycle methods of a React component?",
+    "ans": "React components go through several stages during their lifetime, and each stage is known as a React lifecycle. The main lifecycle methods are: Mounting Stage (component is created and inserted into the DOM), Updating Stage (component updates due to changes in props or state), and Unmounting Stage (component is removed from the DOM). These lifecycle methods allow developers to control and manage the behavior of components at different stages."
+  },
+  {
+    "ques": "What is the Virtual DOM?",
+    "ans": "The Virtual DOM is a lightweight copy of the real DOM used by React to improve the performance of web applications. React creates a virtual representation of the user interface in memory and compares it with the real DOM to minimize actual DOM manipulation and updates. This approach allows React to make efficient updates and improves the application's overall performance."
+  },
+  {
+    "ques": "What are the advantages of using React?",
+    "ans": "React has several advantages, including component-based architecture for code reusability, JSX support for writing HTML-like syntax in JS files, performance optimization using the Virtual DOM, unidirectional data flow for predictable state management, a large ecosystem and community for support and extensions, and ease of learning compared to other frameworks and libraries."
+  }
+]

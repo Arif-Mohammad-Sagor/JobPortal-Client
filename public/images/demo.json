@@ -1,0 +1,68 @@
+// top 6 tech jobs fresh jobs with apply btn
+[
+  {
+    "positionName": "Jr. Frontend Developer",
+    "jobLocaton": "Remote/Onsite",
+    "companyName": "Tech Int Ltd",
+    "companiesLogo": "https://shorturl.at/CRT67"
+  },
+  {
+    "positionName": "Senior Software Engineer",
+    "jobLocaton": "Onsite",
+    "companyName": "Web Solutions Inc.",
+    "companiesLogo": "https://t.ly/GWvV9"
+  },
+  {
+    "positionName": "Data Analyst",
+    "jobLocaton": "Remote",
+    "companyName": "Data Insights Co.",
+    "companiesLogo": "https://t.ly/S5PqS"
+  },
+  {
+    "positionName": "UX/UI Designer",
+    "jobLocaton": "Onsite",
+    "companyName": "Design Innovations Ltd",
+    "companiesLogo": "https://shorturl.at/CRT67"
+  },
+  {
+    "positionName": "Backend Developer",
+    "jobLocaton": "Remote/Onsite",
+    "companyName": "Code Wizards Corp.",
+    "companiesLogo": "https://shorturl.at/CRT67"
+  },
+  {
+    "positionName": "Product Manager",
+    "jobLocaton": "Onsite",
+    "companyName": "Tech Products Inc.",
+    "companiesLogo": "https://shorturl.at/CRT67"
+  },
+  {
+    "positionName": "Full Stack Developer",
+    "jobLocaton": "Remote",
+    "companyName": "Digital Solutions LLC",
+    "companiesLogo": "https://shorturl.at/CRT67"
+  },
+  {
+    "positionName": "Marketing Specialist",
+    "jobLocaton": "Onsite",
+    "companyName": "Marketing Experts Ltd",
+    "companiesLogo": "https://shorturl.at/CRT67"
+  },
+  {
+    "positionName": "Data Scientist",
+    "jobLocaton": "Remote/Onsite",
+    "companyName": "Data Science Labs",
+    "companiesLogo": "https://shorturl.at/CRT67"
+  }
+]
+
+// top 6 tech jobs experienced jobs with apply btn
+[
+    {
+        "positionName":"Jr.frontend developer",
+        "jobLocaton":"remote/onsite",
+        "companyName":"Tech Int ltd",
+        "companiesLogo":"https://picsum.photos/1/237/200/300"
+}
+]
+// // top it companies section 3 national and 3 international with view details button
